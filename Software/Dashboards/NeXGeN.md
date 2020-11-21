@@ -10,7 +10,7 @@ This dash is not a mod, but rather it is being written from the ground up by a s
 
 HoRnEyDvL has stated that they do plan to release this as open source in the future.
 
-Current Progress indicates they have a functioning 3D engine, 2D engine, multiple models made, support for animated sprites, and multiple XBOX Dash lookalike skins functioning, along with indications that there will be RSS feed support. 
+Current photos and communication from the team indicates they have a functioning 3D engine, 2D engine, multiple models made, support for animated sprites, and multiple XBOX Dash lookalike skins functioning, along with indications that there will be RSS feed support. 
 
 The team is looking to bring on more contributors, especially if you are knowledgeable about C++, 3D Modeling, and engine coding. 
 
