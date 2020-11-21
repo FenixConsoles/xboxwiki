@@ -4,4 +4,12 @@
 
 
 
-NeXGeN is a WIP dashboard for the original XBOX
+NeXGeN is a WIP dashboard for the original XBOX which has support for a 2D & 3D skinning engine. It should be capable of replicating the stock dash look & feel as well as allowing users to render & create their own 3D models, etc.
+
+This dash is not a mod, but rather it is being written from the ground up by a small team of dedicated homebrew scene members. It is currently in it's early alpha phase, unreleased to the public at this time.
+
+HoRnEyDvL has stated that they do plan to release this as open source in the future.
+
+
+
+Credits: HoRnEyDvL
